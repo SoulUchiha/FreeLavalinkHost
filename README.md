@@ -9,7 +9,7 @@ Host Lavalink for free on any platforms like replit!
 
 ## Important notes:
 - [x] Do not change the port in `application.yml`
-- [x] To keep this 24/7, you need to make an account on Better Uptime (BetterStack) service and make an HTTP request to your app every 5 minutes. For example, if your app is named `lavahost` and your username is `randomusername`, make an HTTP request to `https://lavahost.randomusername.repl.co`
+- [x] To keep this 24/7, you need to make an account on Better Uptime (BetterStack) service and make an HTTP request to your app every 5 minutes. Click on new tab in webview and that url is your lavalink url (remove https://)
 - [x] Don't forget to change your password (in `application.yml` file)
 - [x] Connection to the node must be secured (e.g., https/wss)
 
